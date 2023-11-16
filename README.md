@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  Студент и начинающий разработчик из России<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+  Студент и начинающий разработчик из России<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
 </p>
 <p align="center">
   
