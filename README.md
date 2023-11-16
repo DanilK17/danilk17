@@ -39,10 +39,11 @@
 
 ### ⚙️ GitHub статистика
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilk17&theme=dark)
 
-<a href="http://www.github.com/Barashkofff"><img src="https://github-readme-stats.vercel.app/api?username=DanilK17&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Danil's GitHub stats" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilk17&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danilk17&theme=dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danilshat&theme=dark)
 
 
 ---
