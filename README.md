@@ -39,10 +39,10 @@
 
 ### ⚙️ GitHub статистика
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilk17&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuryataDanil&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilk17&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danilk17&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KuryataDanil&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KuryataDanil&theme=dark)
 
 
 
