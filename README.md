@@ -3,15 +3,16 @@
 ---
 
 <p align="center">
-  Студент и начинающий разработчик из России<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+  Студент и начинающий devops из России<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
 </p>
 <p align="center">
   
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-- 🔭 Изучаю C++ и Python
-- 🌱 Создаю игру в рамках проектной деятельности
+- 🔭 Знаю python и golang
+- 🌱 Владею интрументами для IaaC (ansbile и terraform)
+- 💻 Умею собирать метрики с помощью prometheus и визуализировать их в grafana
 - 👨‍💻 Пишу telegram ботов как пет-проекты
 - ⚡ Студент ЮФУ МехМат
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-danil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danissemo0)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danil.17.4.2004@gmail.com)
